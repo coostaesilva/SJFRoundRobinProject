@@ -1,0 +1,12 @@
+/.idea/
+/cmake-build-debug/
+/cmake-build-release/
+*.o
+*.out
+*.exe
+scheduler
+scheduler.exe
+*.log
+*.tmp
+.DS_Store
+Thumbs.db
