@@ -1,9 +1,9 @@
-cmake_minimum_required(VERSION VERSION 3.31)
-project(projetoSO2804 C)
+cmake_minimum_required(VERSION 3.20)
+project(sjfRoundRobin C)
 
-set(CMAKE_C_STANDARD 23)
+set(CMAKE_C_STANDARD 11)
 
-add_executable(projetoSO2804
+add_executable(sjfRoundRobin
         sjf.c
         sjf.h
         roundRobin.c
