@@ -27,10 +27,10 @@ int main(void) {
                 runQueueRoundRobin();
                 break;
             case OP_QUIT:
-                printf("Saindo...");
+                printf("Quitting...");
                 break;
             default:
-                printf("Opcao Invalida!\n");
+                printf("Invalid Option!\n");
         }
     }
 }
